@@ -9,6 +9,8 @@ int main()
 }
 
 
+// added source code to gitHub
+
 // Nhap vao sv: ho ten, tuoi, lop
 // Nhap vao diem so cac mon: T, L, H
 // Nhap so thich (the thao, am nhac)
