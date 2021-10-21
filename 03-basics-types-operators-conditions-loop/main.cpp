@@ -10,7 +10,6 @@ int main()
 
 
 // added source code to gitHub
-// 2nd change for testing
 
 // Nhap vao sv: ho ten, tuoi, lop
 // Nhap vao diem so cac mon: T, L, H
